@@ -18,7 +18,7 @@ note: place the script in same folder as the data folders MMI and Mind reading.
 
 #Running the script in spyder ide/ any other ide if available
 
-1. Navgate to the script folder
+1. Navigate to the script folder
 2. open the script
 3. Click on run
 
