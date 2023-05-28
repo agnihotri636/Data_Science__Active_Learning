@@ -1,5 +1,3 @@
-The following project has been implemented without using sklearn library. Any model if implemented is written from scratch.
-
 #install the following required packages 
 
 pip install scipy
